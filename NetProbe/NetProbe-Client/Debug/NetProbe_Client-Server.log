@@ -1,0 +1,22 @@
+﻿  Main.c
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\getopt.h(59,30): warning C4081: expected 'newline'; found ';'
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(193,26): warning C4047: 'function': 'char *const ' differs in levels of indirection from 'char *[20]'
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(193,13): warning C4024: 'sprintf': different types for formal and actual parameter 1
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(196,30): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[20]'
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(196,17): warning C4024: 'send': different types for formal and actual parameter 2
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(196,52): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[20]'
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(196,39): warning C4024: 'strlen': different types for formal and actual parameter 1
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(238,102): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(297,102): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(461,26): warning C4047: 'function': 'char *const ' differs in levels of indirection from 'char *[20]'
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(461,13): warning C4024: 'sprintf': different types for formal and actual parameter 1
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(464,30): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[20]'
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(464,17): warning C4024: 'send': different types for formal and actual parameter 2
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(464,52): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[20]'
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(464,39): warning C4024: 'strlen': different types for formal and actual parameter 1
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(501,103): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(514,136): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(521,37): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(521,35): warning C4024: 'sendto': different types for formal and actual parameter 2
+C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Main.c(576,103): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  NetProbe_Client-Server.vcxproj -> C:\Users\Jacob-Lee\Documents\CUHK-S2\IERG4180\IERG4180_Project\IERG4180_Project2\NetProbe-Client\Debug\NetProbe-Client.exe
